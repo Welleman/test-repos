@@ -1,1 +1,2 @@
-console.log("git");
+const obj = {name: "git HELLO"}
+console.log(obj.name);
